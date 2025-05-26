@@ -1,8 +1,8 @@
 ---
 layout: post
-date: October 2023
+date: February 2024
 inline: true
 related_posts: false
 ---
 
-Invited as a reviewer for CHI 2024
+Invited as a reviewer for IDC 2024
