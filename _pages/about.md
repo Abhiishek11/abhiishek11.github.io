@@ -37,5 +37,5 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 My research bridges human-computer interaction (HCI), audio signal processing, machine learning, participatory design, accessibilty and visualizations, often through systems that combine multimodal music libraries, visualization-driven analysis, and emotion-aware recommender models. I develop tangible and immersive systems, and collaborate with music therapists, composers, and families to co-create meaningful, measurable experiences.
 
-My work has been published at prestigiuos venues such as [ACM IDC](https://idc.acm.org/2025/), and [AAAI ICWSM](https://www.icwsm.org/2025/index.html), and includes contributions to open-source tools, user interfaces for affective computing, and LLM-integrated pipelines for mental health datasets designed to support research in user experience, sentiment analysis, application evaluation, and human-AI collaboration.
+My work has been published at prestigious venues such as [ACM IDC](https://idc.acm.org/2025/), and [AAAI ICWSM](https://www.icwsm.org/2025/index.html), and includes contributions to open-source tools, user interfaces for affective computing, and LLM-integrated pipelines for mental health datasets designed to support research in user experience, sentiment analysis, application evaluation, and human-AI collaboration.
 
