@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-One paper accepted to [IEEE VIS 2026](https://ieeevis.org/year/2026/welcome/). More details coming out soon.  
+"ResonaVis: Visualizing Interactive Music Data to Support Reflective Music Composition for Therapeutic Contexts" is accepted to [IEEE VIS 2026](https://ieeevis.org/year/2026/welcome/). Also received the Department Travel Award for Outstanding Conference Publications, for attending VIS 2026. See you all in Boston🍩
