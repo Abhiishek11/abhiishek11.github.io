@@ -33,7 +33,7 @@ latest_posts:
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
-<div class="alert alert-info" role="alert" style="display: flow-root;">
+<div class="alert" style="display: flow-root; background-color: var(--global-card-bg-color); color: var(--global-text-color); border: 1px solid var(--global-divider-color); border-left: 4px solid var(--global-theme-color);">
   <strong>Seeking Summer 2027 Internships</strong><br>
   I’m looking for research opportunities in HCI, human-AI interaction, visualization and accessibility. 
   </div>
